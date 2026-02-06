@@ -66,6 +66,7 @@
 | [chabokan.ir](https://iran.chabokan.net/)                                               | میرور سرویس پکیج‌های برنامه‌نویسی                                                                                  | NPM, Python, PHP, Docker, NuGet                                                                                 |
 | [abrha.net](https://repo.abrha.net/)                                                    | میرورهای سیستم عامل گنو/لینوکسی                                                                                    | Ubuntu, Almalinux, Debian, EPEL, ProxMox, Avast, Clamav                                                         |
 | [parsdev.com](https://mirror.parsdev.com/)                                              | میرور توزیع های گنو/لینوکسی                                                                                        | Ubuntu, Almalinux, Debian                                                                                       |
+| [linuxmirrors.ir](https://linuxmirrors.ir/)                                             | میرور توزیع های گنو/لینوکسی                                                                                        | Debian, Ubuntu, Fedora, Rocky, Oracle Linux                                                                     |
 
 ---
 
