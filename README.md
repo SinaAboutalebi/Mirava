@@ -5,7 +5,7 @@
 
 ## 🌐 Languages / زبان‌ها
 
-[**فارسی / Persian**](README_fa.md)
+[**فارسی / Persian**](README.fa.md)
 
 </div>
 
